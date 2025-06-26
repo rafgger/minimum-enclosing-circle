@@ -2,9 +2,11 @@
 
 Projekt v Pythonu pro výpočet minimálního kruhu opsaného zadaným bodům.
 
-<p align="left">
-  <img src="https://github.com/user-attachments/assets/569a85f3-3843-417f-9fc9-746ee79bcad6" alt="Minimum Enclosing Circle" width="500"/>
-</p>
+
+[![Minimum Enclosing Circle](https://img.youtube.com/vi/1UKnY7uTvOI/0.jpg)](https://www.youtube.com/watch?v=1UKnY7uTvOI)
+
+
+
 
 
 ## Spuštění
