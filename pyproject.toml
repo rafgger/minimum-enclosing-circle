@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "minimum_enclosing_circle"
+version = "0.1.0"
+description = "Výpočet minimálního opsaného kruhu pro zadané body."
+authors = [
+    { name="Vaše Jméno", email="vas@email.cz" }
+]
+requires-python = ">=3.8"
+dependencies = [
+    "numpy"
+]
+
+[project.scripts]
+minimum-enclosing-circle = "minimum_enclosing_circle.__main__"

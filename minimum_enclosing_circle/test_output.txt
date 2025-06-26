@@ -1,0 +1,2 @@
+Enclosing circle radius: 43.964857
+Enclosing circle center: 10.693500, 44.875000
