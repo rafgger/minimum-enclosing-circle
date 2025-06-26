@@ -1,1 +1,0 @@
-# Minimum Enclosing Circle package
